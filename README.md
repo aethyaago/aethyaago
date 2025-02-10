@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thyago ✌ | Hello! I'm Thyago ✌
+## Olá! Eu sou o Thyago ✌ | Hey! I'm Thyago ✌
 
 [![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https://github.com/heythyago/)](https://discord.com/channels/@me/423653650317967370)
 
