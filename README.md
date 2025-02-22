@@ -11,4 +11,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-4CAF50?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Fight the dead, fear the living.
+You can say what you like, don't say I wouldn't die for you
